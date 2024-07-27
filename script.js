@@ -15,4 +15,4 @@ function fibonacci(num) {
   }
 }
 
-module.exports = fibonacci(3);
+module.exports = fibonacci;
